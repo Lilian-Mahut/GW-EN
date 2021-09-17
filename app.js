@@ -14,9 +14,9 @@ bot.on('ready', () => {
   console.log(`Le bot \x1b[33m${bot.user.tag}\x1b[0m est \x1b[32men ligne\x1b[0m !`)
 })
 
-// "tokenTest": "ODg1NjA4MDY4NTE4Mzk2MDA0.YTpgyQ.kg01YX8DdUTRTjHbGzujgpN6AbY"
-bot.login("ODg1NjA4MDY4NTE4Mzk2MDA0.YTpgyQ.kg01YX8DdUTRTjHbGzujgpN6AbY")
 // bot.login(cfg.token)
+// "token": "ODYyMDAxODQ2NTExMDc1MzM4.YOR_xw._8p_SBTrUc8fGyyrZYqeF3VZ0YI" // NORMAL
+bot.login("ODg1NjA4MDY4NTE4Mzk2MDA0.YTpgyQ.kg01YX8DdUTRTjHbGzujgpN6AbY") // TEST
 
 // CALCUL DU JOUR & RESET 18h
 const currentDate = new Date()
@@ -41,9 +41,7 @@ function reset() {
 }
 
 bot.on('message', message => {
-  // calcul du mois, date et heure
   reset()
-
   // AIDE & SUPPORT
   if (message.content === cfg.prefix + '?') { message.author.send(sentence.help) }
   if (message.content === cfg.prefix + 'iki') { message.author.send(url + cfg.gwiki) }
