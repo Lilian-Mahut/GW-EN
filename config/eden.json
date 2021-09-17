@@ -1,0 +1,59 @@
+{
+  "URImiss": "/Lieutenant_Langmar",
+  "nameMiss": "Lieutenant Langmar",
+  "location": "Cité d'Ascalon (Eden)",
+  "picMiss": "https://lh3.googleusercontent.com/pw/AM-JKLUCrlk23VmJTXjtQfU6nQNbDLzYsozS7yP9l3q3qMX5JhUFdNOsBoadTW9R5i2MpOKhKk1VcZTQTMzw0b89VL6gzokohr8x3j00NcKgrewXj8p-psWlHGZjw2uVRicrziw_BxfUufu76rCiCFVRNJIi8A=w170-h100-no?authuser=0",
+  "required": "Être au niveau 10 ou supérieur",
+  "reward": "1 000 xp\n50 po",
+  "URInic": "/Nicholas_Sandford",
+  "nameNic": "Nicholas Sandford",
+  "picNic": "https://lh3.googleusercontent.com/pw/AM-JKLWuShUlRffGqBeeUIKMX9cZWsQObvX5RU_ApgXjtVWCY-dI5G_Ypjqftr9ix5LrZAPwSDo6hK91MtpwIYfL61P5AkCk8inDgmJ3an_JdK1KkuUd1MSTF8kip0UBpWATvyk3cbd32P0rtVSkLg92gYb-Dw=w170-h100-no?authuser=0",
+  "locNic": "https://lh3.googleusercontent.com/pw/AM-JKLWWjyX9pcNoNv7_NCkfCPdSTRg1qEJTuVUrDdyY-SdDSZ6vv1JNoOXJpTT3453v2alnarjiFN4HNmI1BrRIe-b6egAPnmOWzYXcUmF02LW0x0_mCLqxNVdkXE6OPbwaausmHU1rGiDlN3Q0ZjNUfrkSGA=w184-h222-no?authuser=0",
+  "gift": "[Cadeau du Chasseur](https://www.gwiki.fr/wiki/Cadeau_du_Chasseur#Nicholas_Sandford)",
+  "updatime": 17,
+  "weekdays": {
+    "0":  {
+      "URI": "/Prime_de_l'Avant-garde_:_Utini_Wupwup",
+      "name": "Prime de l'Avant-garde : Utini Wupwup",
+      "objectif": "Trouver et tuer la Utini Wupwup dans le Comté des Vertes Vallées.\nPour votre récompense, allez voir le [Lieutenant Langmar](https://www.gwiki.fr/wiki/Lieutenant_Langmar).",
+      "map": "https://wiki.guildwars.com/images/thumb/1/10/Vanguard_Bounty_Utini_Wupwup.jpg/300px-Vanguard_Bounty_Utini_Wupwup.jpg"
+    },
+    "1":  {
+      "URI": "/Sauvetage_de_l'Avant-garde_:_à_la_rescousse_du_noble_ascalonien",
+      "name": "Sauvetage de l'Avant-garde : à la rescousse du noble ascalonien",
+      "objectif": "Retrouver le Duc Gaban et le faire sortir des catacombes.\nPour votre récompense, allez voir le [Lieutenant Langmar](https://www.gwiki.fr/wiki/Lieutenant_Langmar).",
+      "map": "https://wiki.guildwars.com/images/2/28/Catacombs_Gaban.png"
+    },
+    "2": {
+      "URI": "/Annihilation_de_l'Avant-garde_:_Mort-vivants",
+      "name": "Annihilation de l'Avant-garde : Mort-vivants",
+      "objectif": "Trouver et tuer les Nécromants morts-vivants dans les catacombes. Il en reste 6...0.\nPour votre récompense, allez voir le [Lieutenant Langmar](https://www.gwiki.fr/wiki/Lieutenant_Langmar).",
+      "map": "https://wiki.guildwars.com/images/c/cc/Vanguard_Annihilation_Undead_map.jpg"
+    },
+    "3": {
+      "URI": "/Prime_de_l'Avant-garde_:_Ardamor_Tristelame",
+      "name": "Prime de l'Avant-garde : Ardamor Tristelame",
+      "objectif": "Trouver et tuer Ardamor Tristelame dans les terres du nord.\nPour votre récompense, allez voir le [Lieutenant Langmar](https://www.gwiki.fr/wiki/Lieutenant_Langmar).",
+      "map": "https://wiki.guildwars.com/images/6/63/Vanguard_Bounty_Blazefiend_Griefblade_map.jpg"
+    },
+    "4":  {
+      "URI": "/Prime_de_l%27Avant-garde_:_Comtesse_Nadya",
+      "name": "Prime de l'Avant-garde : Comtesse Nadya",
+      "objectif": "Trouver et tuer la Comtesse Nadya dans la Vallée du régent.\nPour votre récompense, allez voir le [Lieutenant Langmar](https://www.gwiki.fr/wiki/Lieutenant_Langmar).",
+      "map": "https://wiki.guildwars.com/images/b/be/Vanguard_Bounty_Countess_Nadya_map.jpg"
+    },
+    "5":  {
+      "URI": "/Sauvetage_de_l'Avant-garde_:_fantassin_Tate",
+      "name": "Sauvetage de l'Avant-garde : fantassin Tate",
+      "objectif": "Retrouver le [fantassin Tate](https://www.gwiki.fr/wiki/Fantassin_Tate), retenu en territoire ennemi dans les terres du nord.\nPour votre récompense, allez voir le [Lieutenant Langmar](https://www.gwiki.fr/wiki/Lieutenant_Langmar).",
+      "starting": "Partir de la Cité d'Ascalon (Eden).\nTrouver le fantassin Tate, puis l'escorter jusqu'à la sortie de la zone.",
+      "map": "https://wiki.guildwars.com/wiki/Vanguard_Rescue:_Footman_Tate#/media/File:Vanguard_Rescue_Footman_Tate_map.jpg"
+    },
+    "6":  {
+      "URI": "/Annihilation_de_l'Avant-garde_:_Bandits",
+      "name": "Annihilation de l'Avant-garde : Bandits",
+      "objectif": "Sortez du Fort Ranik, et chassez les Bandits.\nPour votre récompense, allez voir le [Lieutenant Langmar](https://www.gwiki.fr/wiki/Lieutenant_Langmar).",
+      "map": "https://lh3.googleusercontent.com/brgzqvVEy1rgChQjeHAplJ01euSVTX2ufTxLIVE41pbby_wrAr9KZO1EqxRaYA5CPDyxNhEVKUBchZbXdf80d2mLEuPXEPdAFrCo5J6oZVyp3I1knPP68QuxmkiXMQK8X1h8PEK_XE4S_SLoW6nxCNKKKIZ2T2KrrcNaHgtWfGZr-F1d65XvOgyvoVp3atIgRDJ5009DA8qBHcYaAPH5_rFM1QNNpyKxvjk7lwIFxNsxPDCMsQ_O2oJHblbrkWiGC9I606FeF1lRfgehIpT4A9UrGMLFyqLyT4EmRWTD2WcsF1PxsuvTUvCx9ZFBrBNKikbauW2EslOOtzdWdvO3mcKrA6vsZzxN9Z5Tx4UPsqvWif17YYn7E_abU5fbhjricH4XyMdERzYUbJO4cwYyp8TELX5-evPsrBAb2yHOYLlUsfrDtHA8JfkOSC-NPnwF8tbuO6gNcoJPzBlNUqNcT-mWePAqAg2bQVjVLXzoxR2zOsHrL5aHMuss-ImfnLG0wfq5U_L3alRs9b08Rw15UHyjHok2yEEAheXT9ADXgjgdb6ViNNGTpbnCIqhOv9mIG0zNzVWBaBRn_RArKnqlCftSMtcKxHL_79n3CTo6AtxedxfAa2r2InrSLbOnRodVeuDPAGU8QVlHRL4Xmf6P8pTPdBeZGR546HNJJRJ-qrS-2i7SJHUgcxoXz_acZlCOI_fp-81bcyftBKY9OWwPlagGIQ=w350-h223-no?authuser=0"
+    }
+  }
+}

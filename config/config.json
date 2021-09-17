@@ -1,0 +1,62 @@
+{
+  "author": "Samu Leen",
+  "email": "exu42@pm.me",
+  "smiley": ":kissing_heart:",
+  "version": "1.2.8",
+  "prefix": "/gw",
+  "token": "ODYyMDAxODQ2NTExMDc1MzM4.YOR_xw._8p_SBTrUc8fGyyrZYqeF3VZ0YI",
+  "logo": "",
+  "host": "https://www.gwiki.fr/wiki",
+  "gwiki": "/Accueil",
+  "gweb": "https://www.guildwars.com/fr",
+  "dailyActivities": {
+    "zMission": {
+      "URI": "/Mission_zaishen",
+      "name": "Mission Zaishen",
+      "location": ""
+    },
+    "zBounty": {
+      "URI": "/Prime_zaishen",
+      "name": "Prime Zaishen",
+      "location": ""
+    },
+    "zCombat": {
+      "URI": "",
+      "name": "Combat Zaishen",
+      "location": ""
+    },
+    "zVanquish": {
+      "URI": "",
+      "name": "Vainqueur Zaishen",
+      "location": ""
+    },
+    "wanted": {
+      "URI": "",
+      "name": "Avis de Recherche",
+      "location": ""
+    }
+  },
+  "weeklyActivities": {
+    "nTraveler": {
+      "name": "Nicholas le Voyageur",
+      "nbr": "",
+      "img": "",
+      "item": "",
+      "location": "",
+      "map": ""
+    },
+    "bonus": {
+      "PvE": {
+        "name": "PvE : Bonus de ",
+        "bonus": ""
+      },
+      "PvP": {
+        "name":"PvP : Bonus de ",
+        "bonus": ""
+      }
+    }
+  },
+  "updates": {
+    "URI": "/Mise_à_jour"
+  }
+}
