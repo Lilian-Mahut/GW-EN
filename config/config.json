@@ -37,14 +37,6 @@
     }
   },
   "weeklyActivities": {
-    "nTraveler": {
-      "name": "Nicholas le Voyageur",
-      "nbr": "",
-      "img": "",
-      "item": "",
-      "location": "",
-      "map": ""
-    },
     "bonus": {
       "PvE": {
         "name": "PvE : Bonus de ",

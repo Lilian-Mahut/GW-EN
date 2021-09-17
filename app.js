@@ -35,6 +35,9 @@ function reset() {
   // RESET 18h
   if ( thisHour > 17 ) { postDay = thisDay + 1 }
   else postDay = thisDay
+  // RESET WEEK
+  if ( thisDay = 1 && thisHour > 17 ) { thisWeek = thisDay + 1 }
+  else thisWeek = thisDay
 }
 
 bot.on('message', message => {
