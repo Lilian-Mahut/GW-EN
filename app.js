@@ -91,7 +91,7 @@ bot.on('message', message => {
     const edenNico = new Discord.MessageEmbed()
     .setTitle(eden.nameNic)
     .setColor(color.light_green)
-    .setDescription("Aujourd'hui Nicholas Sandford vous collectionne ")
+    .setDescription("Aujourd'hui Nicholas Sandford collectionne ")
     .setImage(eden.locNic)
     .setThumbnail(eden.picNic)
     .setURL(url + eden.URInic)
@@ -107,12 +107,12 @@ bot.on('message', message => {
       url: url + cfg.dailyActivities.URI,
       fields: [
         { name: "Nicholas Sandford ```/gwen```", value: "edenNico" },
-        { name: "Avant-garde d'Ascalon ```/gwem```", value: eden.weekdays[edenDay].name },
+        { name: "Avant-garde d'Ascalon ```/gwem```", value: "[" + eden.weekdays[edenDay].name + "](" + url + eden.weekdays[edenDay].URI + ")" },
         { name: "Mission zaishen ```/gwmz```", value: "zMission" },
         { name: "Vainqueur zaishen ```/gwvz```", value: "zVainqueur" },
         { name: "Prime zaishen ```/gwpz```", value: "zPrime" },
         { name: "Combat zaishen ```/gwcz```", value: "zCombat" },
-        { name: "Avis de recherche ```/gwTT```", value: "avisRecherche" },
+        { name: "Avis de recherche ```/gww```", value: "avisRecherche" },
         { name: "Bonus hebdomadaire ```/gwh```", value: "bonusHebdo" }
       ],
       timestamp: "Actualisation à 18h",
