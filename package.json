@@ -1,7 +1,6 @@
 {
-  "name": "gwe",
+  "name": "gwen",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,8 +9,20 @@
   "author": "lilian.mahut@pm.me",
   "license": "ISC",
   "dependencies": {
+    "discord-fetch-all": "^3.0.2",
     "discord.js": "^12.5.3",
-    "luxon": "^2.0.2",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "node-fetch": "^3.0.0",
     "nodemon": "^2.0.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lilian-Mahut/GW-EN.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lilian-Mahut/GW-EN/issues"
+  },
+  "homepage": "https://github.com/Lilian-Mahut/GW-EN#readme",
+  "description": ""
 }
